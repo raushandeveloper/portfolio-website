@@ -137,7 +137,7 @@ const SKILLS = [
 
 const EXPERIENCE = [
   { role: "Full-Stack Development Intern", company: "Decode Lab", period: "2026 — Present", desc: "Working on full-stack features using React, Node.js, and Express.js — contributing to UI components and backend endpoints." },
-  { role: "Campus Mantri", company: "GeeksforGeeks", period: "2025 — Present", desc: "Representing GeeksforGeeks on campus — driving DSA awareness, organizing coding sessions, and growing a community of student problem-solvers." },
+  { role: "Campus Mantri", company: "GeeksforGeeks", period: "2026 — Present", desc: "Representing GeeksforGeeks on campus — driving DSA awareness, organizing coding sessions, and growing a community of student problem-solvers." },
   { role: "Top 9 Finalist — Frontend Free Birds", company: "TECHMITI'25, MIT Muzaffarpur", period: "2025", desc: "Ranked among the top 9 teams out of 35 government engineering college teams across Bihar in a two-round frontend development competition, working in a 4-member team on UI/UX and collaborative problem-solving." },
 ];
 
@@ -159,7 +159,7 @@ const CHAT_KB = [
   { keys: ["hi", "hello", "hey", "namaste"], reply: "Hey! I'm Raushan's portfolio assistant. Ask me about his projects, skills, DSA progress, or how to get in touch." },
   { keys: ["project", "projects", "work"], reply: "Raushan has built an Airbnb Clone (full-stack, Node.js + Express backend) and an Amazon Clone (responsive frontend). Check the Projects section for details!" },
   { keys: ["skill", "skills", "tech", "stack"], reply: "Core stack: Java, JavaScript, Python, C, React.js, Tailwind CSS, Node.js, and Express.js. Full list is in the Skills section." },
-  { keys: ["dsa", "leetcode", "problem", "geeksforgeeks", "gfg"], reply: "400+ DSA problems solved on GeeksforGeeks, mostly in Java — strong on arrays, strings, searching, and sorting. Full roadmap is in the Roadmap section (DSA tab)." },
+  { keys: ["dsa", "leetcode", "problem", "geeksforgeeks", "gfg"], reply: "400+ DSA problems solved , mostly in Java — strong on arrays, strings, searching, and sorting. Full roadmap is in the Roadmap section (DSA tab)." },
   { keys: ["ml", "ai", "machine learning"], reply: "AI/ML isn't on the roadmap right now — check the DSA tab in the Roadmap section for current focus." },
   { keys: ["certification", "certifications", "certificate", "course"], reply: "Check the Certifications tab in the Roadmap section for a full list." },
   { keys: ["experience", "job", "intern", "achievement"], reply: "Currently a Full-Stack Development Intern at Decode Lab, and Campus Mantri at GeeksforGeeks. Also a Top 9 Finalist at TECHMITI'25 (MIT Muzaffarpur). Details in the Skills & Experience section." },
