@@ -91,7 +91,7 @@ const DSA_ROADMAP = [
   { topic: "Arrays & Strings", status: "done" },
   { topic: "Searching & Sorting", status: "done" },
   { topic: "Basic Problem Solving Patterns", status: "done" },
-  { topic: "Recursion & Backtracking", status: "progress", note: "400+ problems solved on GeeksforGeeks" },
+  { topic: "Recursion & Backtracking", status: "progress", note: "400+ problems solved" },
   { topic: "Trees & Graphs", status: "upcoming" },
   { topic: "Dynamic Programming", status: "upcoming" },
 ];
