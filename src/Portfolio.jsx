@@ -84,7 +84,7 @@ const JOURNEY = [
   { year: "2025", title: "React.js, Tailwind CSS & Bootstrap", desc: "Picked up modern frontend tooling. Built the Amazon Clone — a responsive homepage layout." },
   { year: "2025", title: "Full-stack with Node.js & Express.js", desc: "Built the Airbnb Clone — a full-stack app with clean UI, reusable components, and a working backend." },
   { year: "2025", title: "Top 9 Finalist — TECHMITI'25", desc: "Frontend Free Birds team ranked top 9 of 35 government engineering college teams across Bihar, at MIT Muzaffarpur." },
-  { year: "2026", title: "Now", desc: "Grinding DSA in Java (400+ problems on GeeksforGeeks) and looking for a Frontend / Full-Stack internship." },
+  { year: "2026", title: "Now", desc: "Grinding DSA in Java (400+ problems) and looking for a Frontend / Full-Stack internship." },
 ];
 
 const DSA_ROADMAP = [
