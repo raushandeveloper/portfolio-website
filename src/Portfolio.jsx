@@ -109,6 +109,18 @@ const CERTIFICATIONS = [
     date: "2026",
     url: "/cisco.png",
   },
+  {
+    title: "Cybersecurity Essentials",
+    issuer: "Cisco Networking Academy",
+    date: "2026",
+    url: "/Cybersecurity.png",
+  },
+  {
+    title: "Python Essentials 1",
+    issuer: "Cisco Networking Academy",
+    date: "2026",
+    url: "/Python.png",
+  },
 ];
 
 const PROJECTS = [
